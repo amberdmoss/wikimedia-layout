@@ -1,1 +1,77 @@
+body {
+margin: 0, auto;
+padding: 5px 160px; 
+}
+
+
+
+img {
+	position: relative;
+	left: 33px;
+	max-width: 100%;
+}
+
+.test{
+	background-color: ;
+	width: 180px;
+	height: 180px;
+	float:left;
+	margin: 2% 3% 0% 0%;
+
+}
+
+
+.clear {
+	clear: left;
+}
+
+.line {
+	
+	clear: left;
+	height:1px;
+	background-color: #666;
+}
+
+
+p {
+	text-align: left;
+	font-family: sans-serif;
+	font-size: 1.28em;
+	line-height: 30px;
+}
+
+.welcome{
+	text-align: right;
+}
+
+
+.bottom {
+	text-align: center;
+	font-size: .83em;
+}
+
+.terms {
+	
+	font-size: .83em;
+	margin: 0px 15px 0px 0px;
+	position: relative;
+	left: 42%;
+}
+
+.footer {
+
+	display: block;
+	height: 65px;
+	width: 899px;
+	margin: 100px 0px 0px 0px;
+}
+
+a {
+	color:#0645AD;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
 
